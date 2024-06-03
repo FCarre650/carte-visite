@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+}
+
+
+body {
+    font-family: 'manrope', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    background-color: #494b7f;
+    color: azure;
+}
+
+header {
+    padding-top: 4.5em;
+}
+
+.avatar {
+    display: block;
+    margin: auto;
+    height: 200px;
+    border-radius: 30%;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Monsterrat', sans-serif;
+    line-height: 2em;
+}
+
+h2 {
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Monsterrat', sans-serif;
+}
+
+main ul {
+    padding-top: 0.5em;
+    padding-left: 16em;
+    padding-bottom: 2em;
+    line-height: 2em;
+}
+
+
+.liens ul {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30em;
+    margin-right: 30em;
+    list-style: none;
+
+}
+
